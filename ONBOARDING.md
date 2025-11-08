@@ -51,18 +51,6 @@ This sheet is designed to help onboard new learners into the course.
 2. Revise key concepts and try solving similar problems on platforms like LeetCode. 
 3. Mark your progress ✅ once the day is complete.
 
----
-
-## 💬 Community & Updates
-
-- Join the **WhatsApp Group:** [Join Now](https://chat.whatsapp.com/example-link)
-- Discuss daily progress on **LinkedIn** using the template below:
-
-> 🎯 *Day X of Babua DSA Patterns Course 2025 complete!*  
-> Learned: `<topic>`  
-> Instructor: [Anuj Kumar](https://www.linkedin.com/in/anuj-kumar-9a188968/)  
-> YouTube: [CTO Bhaiya](https://www.youtube.com/@ctobhaiya)  
-> #DSA #BabuaDSAPatterns #CodingInterviewPrep #CTOBhaiya  
 
 ---
 
